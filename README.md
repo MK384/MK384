@@ -1,5 +1,6 @@
 <h1 align="center">Hi Folks 👋, I'm Mohamed Khaled</h1>
-<h3 align="center">An ambitious Computer Engineering Student who is interested in Embedded systems development. I also devolop in other fields in my spare time like computer graphics and machine learning.  </h3>
+<h3 align="center">An ambitious Computer Engineering Student who is interested in Embedded systems development.
+  I also devolop in other fields in my spare time like computer graphics and machine learning.  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2yaty&label=Profile%20views&color=0e75b6&style=flat" alt="2yaty" /> </p>
 
